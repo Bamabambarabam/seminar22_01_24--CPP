@@ -1,0 +1,3 @@
+C:/Users/Leo/CLionProjects/seminar22_01_24/cmake-build-debug/CMakeFiles/seminar22_01_24.dir
+C:/Users/Leo/CLionProjects/seminar22_01_24/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Leo/CLionProjects/seminar22_01_24/cmake-build-debug/CMakeFiles/rebuild_cache.dir

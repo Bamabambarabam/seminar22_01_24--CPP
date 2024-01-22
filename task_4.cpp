@@ -10,6 +10,7 @@ using namespace std;
 struct rnd {
     int operator()() {
         return rand() % 250000;
+        // We fill the array with random numbers up to 250000
     }
 };
 
